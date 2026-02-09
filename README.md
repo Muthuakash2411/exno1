@@ -132,6 +132,11 @@ df_cleaned
 <img width="1057" height="687" alt="image" src="https://github.com/user-attachments/assets/8acdfe1c-7458-4e48-a73f-dbe9a389ee64" />
 
 
+
+<img width="1521" height="398" alt="image" src="https://github.com/user-attachments/assets/b41b9c1d-e7d2-4b90-8688-3c13be6d1886" />
+
+
+
 <img width="1533" height="689" alt="image" src="https://github.com/user-attachments/assets/6ec00095-3770-4336-9759-2bfd4db24125" />
 
 
